@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           <div> 
-            <a style="font-size:18px;" href="sms:1-408-555-1212">New SMS Message to 1-408-555-1212</a>
+            <a  href="sms:1-408-555-1212">New SMS Message to 1-408-555-1212</a>
           </div>
           This is a test concept
         </p>
