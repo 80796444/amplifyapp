@@ -7,8 +7,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
-          This is my first test.
+          <div> 
+            <a style="font-size:18px;" href="sms:1-408-555-1212">New SMS Message to 1-408-555-1212</a>
+          </div>
+          This is a test concept
         </p>
         <a
           className="App-link"
