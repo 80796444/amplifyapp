@@ -12,6 +12,9 @@ function App() {
             <br></br>
             <a  href="tel:1-408-555-1212">Call to 1-408-555-1212</a>
             <br></br>
+            <a  href="tel,sms:1-408-555-1212">Call to 1-408-555-1212</a>
+            <br></br>
+            <a  href="tel:408-555-1212">Call to 1-408-555-1212</a>
           </div>
           This is a test concept
         </p>
