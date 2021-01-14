@@ -9,17 +9,20 @@ function App() {
         <p>
           <div> 
             <a  href="sms:1-408-555-1212">New SMS Message to 1-408-555-1212</a>
+            <br></br>
+            <a  href="tel:1-408-555-1212">Call to 1-408-555-1212</a>
+            <br></br>
           </div>
           This is a test concept
         </p>
-        <a
+        {/* <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
           Learn React
-        </a>
+        </a> */}
       </header>
     </div>
   );
