@@ -13,6 +13,9 @@ function App() {
             <br></br>
             Call to<a  href="tel:1-408-555-1212">1-408-555-1212</a>
           </div>
+
+          Only phone 1 <a href="1-408-555-1212">1-408-555-1212</a>
+          Only phone 2 <a href="1-408-555-1212">1-408-555-1212</a>
           
         </p>
         {/* <a
